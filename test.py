@@ -1,1 +1,1 @@
-print("Testing.....")
+print("Testing, GPG Key Setup Done")
